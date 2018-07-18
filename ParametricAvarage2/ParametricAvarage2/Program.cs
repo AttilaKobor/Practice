@@ -10,8 +10,6 @@ namespace ParametricAvarage2
 
             double num = Int32.Parse(Console.ReadLine());
             double sum = 0;
-            // kérek egy számot (pl.3). A fornak addig kell pörögnie, amíg ezt a 3 számot meg nem kapja. Ezután ezeket kell összeadnia
-            // és átlagot vonnia belőle
             
 
             for (int i = 0; i < num; ++i)
