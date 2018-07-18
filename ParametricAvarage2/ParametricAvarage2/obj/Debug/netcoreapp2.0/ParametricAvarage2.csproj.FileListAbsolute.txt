@@ -1,0 +1,11 @@
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\obj\Debug\netcoreapp2.0\ParametricAvarage2.csprojAssemblyReference.cache
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\obj\Debug\netcoreapp2.0\ParametricAvarage2.csproj.CoreCompileInputs.cache
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\obj\Debug\netcoreapp2.0\ParametricAvarage2.AssemblyInfoInputs.cache
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\obj\Debug\netcoreapp2.0\ParametricAvarage2.AssemblyInfo.cs
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\bin\Debug\netcoreapp2.0\ParametricAvarage2.deps.json
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\bin\Debug\netcoreapp2.0\ParametricAvarage2.runtimeconfig.json
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\bin\Debug\netcoreapp2.0\ParametricAvarage2.runtimeconfig.dev.json
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\bin\Debug\netcoreapp2.0\ParametricAvarage2.dll
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\bin\Debug\netcoreapp2.0\ParametricAvarage2.pdb
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\obj\Debug\netcoreapp2.0\ParametricAvarage2.dll
+C:\Users\Kinga\Desktop\Programming\ParametricAvarage2\ParametricAvarage2\obj\Debug\netcoreapp2.0\ParametricAvarage2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\bin\Debug\netcoreapp2.0\drawaSquare.deps.json
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\bin\Debug\netcoreapp2.0\drawaSquare.runtimeconfig.json
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\bin\Debug\netcoreapp2.0\drawaSquare.runtimeconfig.dev.json
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\bin\Debug\netcoreapp2.0\drawaSquare.dll
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\bin\Debug\netcoreapp2.0\drawaSquare.pdb
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\obj\Debug\netcoreapp2.0\drawaSquare.csprojAssemblyReference.cache
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\obj\Debug\netcoreapp2.0\drawaSquare.csproj.CoreCompileInputs.cache
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\obj\Debug\netcoreapp2.0\drawaSquare.AssemblyInfoInputs.cache
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\obj\Debug\netcoreapp2.0\drawaSquare.AssemblyInfo.cs
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\obj\Debug\netcoreapp2.0\drawaSquare.dll
+C:\Users\Kinga\Desktop\Programming\drawaSquare\drawaSquare\obj\Debug\netcoreapp2.0\drawaSquare.pdb
