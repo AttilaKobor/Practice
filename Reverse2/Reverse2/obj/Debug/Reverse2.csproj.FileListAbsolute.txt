@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\bin\Debug\Reverse2.exe.config
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\bin\Debug\Reverse2.exe
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\bin\Debug\Reverse2.pdb
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\obj\Debug\Reverse2.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\obj\Debug\Reverse2.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\obj\Debug\Reverse2.exe
+C:\Users\faszajogasz\Desktop\Programming\Reverse2\Reverse2\obj\Debug\Reverse2.pdb
