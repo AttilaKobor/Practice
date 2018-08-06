@@ -1,0 +1,6 @@
+C:\Users\faszajogasz\Desktop\Programming\URLFixer\URLFixer\bin\Debug\URLFixer.exe.config
+C:\Users\faszajogasz\Desktop\Programming\URLFixer\URLFixer\bin\Debug\URLFixer.exe
+C:\Users\faszajogasz\Desktop\Programming\URLFixer\URLFixer\bin\Debug\URLFixer.pdb
+C:\Users\faszajogasz\Desktop\Programming\URLFixer\URLFixer\obj\Debug\URLFixer.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\URLFixer\URLFixer\obj\Debug\URLFixer.exe
+C:\Users\faszajogasz\Desktop\Programming\URLFixer\URLFixer\obj\Debug\URLFixer.pdb

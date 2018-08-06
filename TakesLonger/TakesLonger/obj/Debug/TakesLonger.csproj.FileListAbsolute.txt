@@ -1,0 +1,6 @@
+C:\Users\faszajogasz\Desktop\Programming\TakesLonger\TakesLonger\bin\Debug\TakesLonger.exe.config
+C:\Users\faszajogasz\Desktop\Programming\TakesLonger\TakesLonger\bin\Debug\TakesLonger.exe
+C:\Users\faszajogasz\Desktop\Programming\TakesLonger\TakesLonger\bin\Debug\TakesLonger.pdb
+C:\Users\faszajogasz\Desktop\Programming\TakesLonger\TakesLonger\obj\Debug\TakesLonger.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\TakesLonger\TakesLonger\obj\Debug\TakesLonger.exe
+C:\Users\faszajogasz\Desktop\Programming\TakesLonger\TakesLonger\obj\Debug\TakesLonger.pdb

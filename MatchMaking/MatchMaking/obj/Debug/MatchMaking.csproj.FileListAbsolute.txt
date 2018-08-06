@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\bin\Debug\MatchMaking.exe.config
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\bin\Debug\MatchMaking.exe
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\bin\Debug\MatchMaking.pdb
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\obj\Debug\MatchMaking.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\obj\Debug\MatchMaking.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\obj\Debug\MatchMaking.exe
+C:\Users\faszajogasz\Desktop\Programming\MatchMaking\MatchMaking\obj\Debug\MatchMaking.pdb

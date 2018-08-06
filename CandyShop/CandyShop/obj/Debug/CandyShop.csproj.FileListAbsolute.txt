@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\bin\Debug\CandyShop.exe.config
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\bin\Debug\CandyShop.exe
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\bin\Debug\CandyShop.pdb
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\obj\Debug\CandyShop.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\obj\Debug\CandyShop.exe
+C:\Users\faszajogasz\Desktop\Programming\CandyShop\CandyShop\obj\Debug\CandyShop.pdb

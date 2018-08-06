@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe.config
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\bin\Debug\SolarSystem.exe
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\bin\Debug\SolarSystem.pdb
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\obj\Debug\SolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\obj\Debug\SolarSystem.exe
+C:\Users\faszajogasz\Desktop\Programming\SolarSystem\SolarSystem\obj\Debug\SolarSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\faszajogasz\Desktop\Programming\TodoPrint\TodoPrint\bin\Debug\TodoPrint.exe.config
+C:\Users\faszajogasz\Desktop\Programming\TodoPrint\TodoPrint\bin\Debug\TodoPrint.exe
+C:\Users\faszajogasz\Desktop\Programming\TodoPrint\TodoPrint\bin\Debug\TodoPrint.pdb
+C:\Users\faszajogasz\Desktop\Programming\TodoPrint\TodoPrint\obj\Debug\TodoPrint.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\TodoPrint\TodoPrint\obj\Debug\TodoPrint.exe
+C:\Users\faszajogasz\Desktop\Programming\TodoPrint\TodoPrint\obj\Debug\TodoPrint.pdb

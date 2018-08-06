@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\bin\Debug\HeWillNever.exe.config
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\bin\Debug\HeWillNever.exe
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\bin\Debug\HeWillNever.pdb
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\obj\Debug\HeWillNever.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\obj\Debug\HeWillNever.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\obj\Debug\HeWillNever.exe
+C:\Users\faszajogasz\Desktop\Programming\HeWillNever\HeWillNever\obj\Debug\HeWillNever.pdb

@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\obj\Debug\ElementFinder.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\obj\Debug\ElementFinder.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\bin\Debug\ElementFinder.exe.config
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\bin\Debug\ElementFinder.exe
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\bin\Debug\ElementFinder.pdb
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\obj\Debug\ElementFinder.exe
+C:\Users\faszajogasz\Desktop\Programming\ElementFinder\ElementFinder\obj\Debug\ElementFinder.pdb

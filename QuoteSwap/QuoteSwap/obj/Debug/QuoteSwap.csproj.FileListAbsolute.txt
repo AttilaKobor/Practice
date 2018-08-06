@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\bin\Debug\QuoteSwap.exe.config
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\bin\Debug\QuoteSwap.exe
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\bin\Debug\QuoteSwap.pdb
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\obj\Debug\QuoteSwap.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\obj\Debug\QuoteSwap.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\obj\Debug\QuoteSwap.exe
+C:\Users\faszajogasz\Desktop\Programming\QuoteSwap\QuoteSwap\obj\Debug\QuoteSwap.pdb

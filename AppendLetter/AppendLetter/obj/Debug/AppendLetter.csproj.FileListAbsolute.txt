@@ -1,0 +1,7 @@
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\bin\Debug\AppendLetter.exe.config
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\bin\Debug\AppendLetter.exe
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\bin\Debug\AppendLetter.pdb
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\obj\Debug\AppendLetter.csprojAssemblyReference.cache
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\obj\Debug\AppendLetter.csproj.CoreCompileInputs.cache
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\obj\Debug\AppendLetter.exe
+C:\Users\faszajogasz\Desktop\Programming\AppendLetter\AppendLetter\obj\Debug\AppendLetter.pdb
