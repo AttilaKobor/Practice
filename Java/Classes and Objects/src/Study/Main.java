@@ -23,7 +23,7 @@ public class Main {
         yellow.textColor = "green!";
         yellow.text = "Superb";
 
-        yellow.print();
+        yellow.p
 
 
     }

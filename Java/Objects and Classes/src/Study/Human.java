@@ -9,7 +9,7 @@ public class Human {
     public void speak(){
         System.out.println("Hello, my name is " + name);
         System.out.println("I am " + height + "cm" );
-        System.out.println("I am " + age + "old");
+        System.out.println("I am " + age + "years old");
         System.out.println("My eyecolor is " + eyeColor);
     }
     public Human(){
